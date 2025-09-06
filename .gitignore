@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models / large files
+models/
+data/*.csv
+
+# Environments
+.env
+venv/
+.venv/
