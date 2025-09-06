@@ -2,7 +2,7 @@
 
 
 
-#📄 Resume Parser & Job Recommender
+##📄 Resume Parser & Job Recommender
 
 A machine learning–based system to automate resume screening and provide personalized job recommendations.
 This project uses TF–IDF Vectorization for text feature extraction and a Logistic Regression classifier for resume categorization.
